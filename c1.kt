@@ -9,7 +9,7 @@ fun main (args: Array<String>){
     titulo= "ahora yo soy el título" 
     println(titulo)
 
-    val x=5
+    /*val x=5
     val y=6
     val z=10
 
@@ -48,4 +48,5 @@ fun main (args: Array<String>){
         println("el valor de numero es: "+numero)
 
     }while(numero in 1..100)
+     */
 }
